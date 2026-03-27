@@ -22,7 +22,10 @@ Per questo ho preparato una demo landing dedicata a Treviso Eco Servizi, con un'
 
 Secondo me può essere utile soprattutto come pagina da collegare a campagne, scheda Google, contatti commerciali o traffico mobile, dove spesso serve una comunicazione più diretta rispetto a un sito completo.
 
-Se vi va, posso inviarvi la demo così la guardate con calma, senza alcun impegno.
+Questa è la demo:
+https://lorenzo-treviso-eco-servizi.netlify.app
+
+Se vi va, potete guardarla con calma senza alcun impegno.
 
 Cordiali saluti,
 [Il tuo nome]
@@ -34,7 +37,10 @@ sono un freelance web della zona. Ho visto la vostra presenza online e ho prepar
 
 L'obiettivo è rendere più immediati i servizi, il funzionamento e la richiesta preventivo, soprattutto per chi arriva da mobile o da una campagna.
 
-Se vi interessa, vi mando volentieri il link senza impegno.
+Demo:
+https://lorenzo-treviso-eco-servizi.netlify.app
+
+Se vi interessa, dateci un'occhiata senza impegno.
 
 [Il tuo nome]
 
